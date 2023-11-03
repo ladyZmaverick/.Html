@@ -1,0 +1,22 @@
+form {
+    margin: 0 auto;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #89dbce;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    width: 100%;
+    background-color: #5F9EA0;
+    color: #fff;
+    padding: 10px;
+    border: none;
+  }
+  
